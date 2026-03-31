@@ -25,4 +25,9 @@ DELETE/livros/{id}
 <img width="788" height="340" alt="image" src="https://github.com/user-attachments/assets/c0e28ac5-3223-46ae-80cf-e1cf669f9461" />
 
 GET/livros
+<img width="1364" height="717" alt="image" src="https://github.com/user-attachments/assets/6acf536f-b2ce-4138-8c94-f439070d5e67" />
+
+GET/livros/9999
+<img width="1365" height="708" alt="image" src="https://github.com/user-attachments/assets/cb6f2997-25eb-4b32-b9c3-215da24f9be8" />
+
 
