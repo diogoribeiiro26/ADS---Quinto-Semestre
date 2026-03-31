@@ -12,3 +12,17 @@ GET/livros
 
 PUT/livros/{id}
 <img width="1364" height="719" alt="image" src="https://github.com/user-attachments/assets/0b0708f6-32de-4aef-9bea-6f6e04496f0d" />
+
+PUT/livros/{id}/emprestar
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/84b08238-9881-4b6f-a623-e1a67a4ee3b9" />
+
+PUT/livros/{id}/devolver
+<img width="1359" height="716" alt="image" src="https://github.com/user-attachments/assets/6be80c1f-d9fa-4a57-bed3-60fb498bc4a4" />
+
+DELETE/livros/{id}
+<img width="1364" height="721" alt="image" src="https://github.com/user-attachments/assets/81524ac0-0ca8-4034-8598-0efab210bf0d" />
+<img width="799" height="329" alt="image" src="https://github.com/user-attachments/assets/a2d09271-9580-448f-883c-baee5f4a7c99" />
+<img width="788" height="340" alt="image" src="https://github.com/user-attachments/assets/c0e28ac5-3223-46ae-80cf-e1cf669f9461" />
+
+GET/livros
+
